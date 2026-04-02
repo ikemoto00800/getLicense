@@ -1,0 +1,16 @@
+# ===== Eclipse =====
+.project
+.classpath
+.settings/
+bin/
+
+# ===== Java =====
+*.class
+
+# ===== Maven (使っている場合) =====
+target/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+``
